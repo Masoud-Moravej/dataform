@@ -2,7 +2,7 @@ config {
     type: "view",
     schema: "test_ds"
 }
-
+Hello World
 SELECT
   "Test" AS name,
   "Test 2" AS name2
