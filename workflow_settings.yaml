@@ -1,5 +1,5 @@
 defaultProject: mytestproject-453612
 defaultLocation: australia-southeast2
-defaultDataset: dataform
+defaultDataset: raw
 defaultAssertionDataset: dataform_assertions
 dataformCoreVersion: 3.0.0
