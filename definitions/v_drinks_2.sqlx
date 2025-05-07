@@ -3,4 +3,4 @@ config {
   schema: "raw"
 }
 
-SELECT * from ${ref("v_drinks_2")}
+SELECT * from ${ref("v_drinks")}
