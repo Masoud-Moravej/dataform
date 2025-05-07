@@ -1,0 +1,5 @@
+config {
+  type: "view"
+}
+
+SELECT drink_name,drink_type from ${ref("drinks")}
