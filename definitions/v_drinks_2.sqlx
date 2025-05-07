@@ -1,0 +1,6 @@
+config {
+  type: "view",
+  schema: "raw"
+}
+
+SELECT * from ${ref("v_drinks_2")}
